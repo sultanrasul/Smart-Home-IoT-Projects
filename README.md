@@ -26,8 +26,9 @@ Each system focuses on reliability, low-cost hardware, and cloud integration thr
 
 📁 Code: [`/motorised-blinds`](./motorised-blinds)
 
-![Motorised Blinds](./motorised-blinds/complete.jpg)  
-[▶ Watch Demo Video](./motorised-blinds/MotorisedBlinds.mp4)
+![Motorised Blinds Model](./motorised-blinds/model.jpg)
+
+🎬 [Watch a demo on YouTube](https://www.youtube.com/watch?v=xKtMYkwtWfg)
 
 ---
 
